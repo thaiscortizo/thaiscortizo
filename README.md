@@ -7,7 +7,7 @@ I'm brasilian and Spanish, I graduated in Statistics. I love learning more about
 
 - 🔭 I’m currently working on @contaazul
 - 🌱 I’m currently learning Data Science
-- 💬 Ask me about statistics and data science
+- 💬 Ask me about statistics and data science.
 - 📫 How to reach me: www.linkedin.com/in/thaiscortizo
 
 -->
