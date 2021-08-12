@@ -6,7 +6,7 @@
 ### Hello! Welcome to my Profile!
 <img style="margin: 0 auto" src="https://pa1.narvii.com/6773/0adfa7139f8547004174d1f71ed1ef3172699fec_hq.gif">
 
-I'm Brasilian and Spanish. I love learning more about tecnologies and data, and for now, I'm specializing in data science. 
+I'm Brasilian and Spanish. I love learning more about tecnologies and data, and for now, I'm undergraduating in data science. 
 
 - 🔭 I’m Data Analyst at <a target="_blank" href="https://contaazul.com//">Conta Azul</a>
 - 🌱 I’m studying postgraduate about Data Science at <a target="_blank" href="https://www.puc-rio.br//">PUC-RJ</a>
