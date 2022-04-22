@@ -8,7 +8,7 @@
 
 I'm Brasilian and Spanish. I love learning more about tecnologies and data, and for now, I'm undergraduating in data science. 
 
-- 🔭 I’m Data Analyst at <a target="_blank" href="https://contaazul.com//">Conta Azul</a>
+- 🔭 I’m Data Analyst
 - 🌱 I’m studying postgraduate about Data Science at <a target="_blank" href="https://www.puc-rio.br//">PUC-RJ</a>
 - 🤓 I graduated in Statistics at <a target="_blank" href="https://ence.ibge.gov.br//">ENCE/IBGE</a>
 - 💬 Ask me about statistics and data science
