@@ -10,6 +10,6 @@
 I'm Spanish/Brazilian. I can talk about data, machine learning and deep learning. 
 
 - 🔭 I’m Data Analyst
-- 🌱 I’m studying to become a Specialist in Data Science at <a target="_blank" href="https://online.stanford.edu/">Stanford/University</a>
+- 🌱 I’m studying to become a Specialist in Data Science at <a target="_blank" href="https://online.stanford.edu/">Stanford University</a>
 - 🤓 B.S. degree in Statistics at <a target="_blank" href="https://ence.ibge.gov.br//">ENCE/IBGE</a>
 - 💬 Ask me about statistics and data science
